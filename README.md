@@ -1,0 +1,1 @@
+This is a Project for The Odin Project, in which I will be creating a barebones website that will house several recipes. I will be using the skills I've learned with the Command Line, Git, GitHub, and HTML.
